@@ -1,0 +1,117 @@
+.background orange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+  font-style: italic;
+  font-family: candara;
+  font-size: 180px;
+  color: blue;
+
+
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+}
+h2{
+  background-color: yellow;
+color: green;
+}
+h3{
+color: indigo;
+}
+h4{
+  color:blue;
+}
+  body{
+  background-color: pink;
+  }
+
+  nav{
+
+    display: inline-block;
+    padding: 50px
+    margin-left-auto;
+  }
+  p{
+    font-size: 25px
+    font style:italic;
+    font-weight: 800;
+  }
+  nav a:hover{
+    background-color: white;
+    background-position: center;
+  }
+
+
+  img{
+    width: 500px
+    height:800px
+
+  }
+  p{
+    padding: 20px;
+    background-color: indigo;
+  }
+  p{
+    margin-left: 20px
+    margin-right:2opx
+    margin-top:20px
+    margin-bottom:20px
+  }
+  p{
+    border: 10px solid blue;
+  }
+p{
+  h2{
+    border-bottom: 5px solid #333;
+  }
+}
+.menu,.footerbar{
+  background-color: violet;
+  margin: 3;
+  padding: 2px
+  overflow:hidden;
+}
+.menu a,.footerbar a{
+  display: block;
+  padding: 20px 25px
+  color:red
+  text-decoration:none;
+}
+.menu a:hover,.footerbar a:hover{
+  background-color: green
+}
+.menu{
+  background-color: yellow;
+  margin:2px
+  padding:2px
+}
+.menu a{
+  display: block;
+  padding: 20px 25px
+  color:red;
+  text-decoration: none;
+
+}
+.menu a{
+  display: block;
+  padding: 20px 25px
+  color:red;text-decoration: none;
+  float: left;
+}
+.menu a:hover{
+  background-color: yellow;
+}
